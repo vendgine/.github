@@ -1,1 +1,1 @@
-Welcome to our GitHub organization! We are a team of developers dedicated to creating an ECMAScript framework with a microservice architecture that utilizes the power of AI. We use OpenAI as our AI provider to bring cutting-edge technology to our framework. Our goal is to make it easy for developers to build scalable and efficient applications that leverage the benefits of AI. Join us in our mission to push the boundaries of web development and make AI accessible to all.
+:3
